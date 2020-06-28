@@ -20,10 +20,10 @@
 #### validate
 Validates a CIDME resource.
 
-#### Arguments:
+#### validate - Arguments:
 - cidmeResource - *JSON-LD string representation of a CIDME resource*
 
-#### Returns
+#### validate - Returns
 - boolean
 
 
