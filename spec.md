@@ -15,3 +15,15 @@
 
 ## CIDME API
 
+### Functions/methods
+
+#### validate
+Validates a CIDME resource.
+
+#### Arguments:
+- cidmeResource - *JSON-LD string representation of a CIDME resource*
+
+#### Returns
+- boolean
+
+
